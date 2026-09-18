@@ -10,8 +10,8 @@
 > Membuat sebuah program untuk menghitung konversi suhu Celcius-Reamur-Fahrenheit.
 
 ## 2. Mathematical Equation
-> \frac{9}{5}C + 32
-> R = \frac{4}{5}C
+> $$F = \frac{9}{5}C + 32$$
+> $$R = \frac{4}{5}C$$
 
 ## 3. Algorithm
 > 1. Mulai
